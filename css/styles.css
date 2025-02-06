@@ -233,7 +233,6 @@ a {
 }
 .portfolio-li {
   width: calc((100% - 48px) / 3);
-  background: #f4f4fd;
   display: block;
 }
 .portfolio-div {
